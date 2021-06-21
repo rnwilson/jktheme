@@ -1,0 +1,11 @@
+- slug: crypto
+  name: Crypto
+
+- slug: docker
+  name: Docker
+ 
+- slug: random
+  name: Random 
+
+- slug: programming
+  name: Programming
