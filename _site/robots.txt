@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rnwilson.github.io/sitemap.xml
