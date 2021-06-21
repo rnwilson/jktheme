@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rnwilson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rnwilson.net
+  * I am rnwilson (https://keybase.io/rnwilson) on keybase.
+  * I have a public key ASBu2yQ0leiX98wf48dE2u8Hlrh9r3Nzs9sHPYTMrh274Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208334c16b9abdd0d4512e4d30c4ce5b647f18c4a8a1f0776b22c530ed7f1792d50a",
+      "host": "keybase.io",
+      "kid": "01206edb243495e897f7cc1fe3c744daef0796b87daf7373b3db073d84ccae1dbbe00a",
+      "uid": "0f36cfbadc6fdfb7c1742b96ef8ed919",
+      "username": "rnwilson"
+    },
+    "merkle_root": {
+      "ctime": 1624312942,
+      "hash": "5c28564eebc5c747e60c5e191a9bdf63d9f2d00eb81eda63df358f980b552b763e80731771a879e75e4efc5f3ad7d11f4fbb5e2050d455ab31b5322dbc6ae144",
+      "hash_meta": "5e7794d554750f9a835c83935c49a79bb6b03b2a2b43252c47c2b18d9a09eb72",
+      "seqno": 20230178
+    },
+    "service": {
+      "entropy": "RLcNkzHkfRo1v9JIjEtG6p9Z",
+      "hostname": "rnwilson.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1624313039,
+  "expire_in": 504576000,
+  "prev": "6b97abec51bbec75d6b16aaf1b86b70a74948f69914699a87812da2cd2fc34b6",
+  "seqno": 80,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbtskNJXol/fMH+PHRNrvB5a4fa9zc7PbBz2EzK4du+AKp3BheWxvYWTESpcCUMQga5er7FG77HXWsWqvG4a3CnSUj2mRRpmoeBLaLNL8NLbEIM5/x0Xyfn1AjHKAUNI+mPBchb90XntHWHJDsr3Ee1UnAgHCo3NpZ8RAZE2qFD/pDq4XhBIutAodYIEpyfU/MUV466aLQg2fBUeE+77SsPiUHWWRzKsz+uiC9V8oznGfyyC1nJ3+7PYQDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJjNI3JbTPPlnVtI6v/E5PLOSPQfGHHmnmheIFe1OO8zo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rnwilson
+
+==================================================================
