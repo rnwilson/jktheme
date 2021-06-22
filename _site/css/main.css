@@ -1,8 +1,7 @@
 @charset "UTF-8";
 /* =Colors */
 /* =Base */
-/* change */
-body { font-family: "Inconsolata"; color: #333333; background-color: #F5F5F5;  }
+body { font-family: "Inconsolata"; color: #333333; background-color: #F5F5F5; }
 
 a { color: #828282; font-weight: bold; text-decoration: none; }
 

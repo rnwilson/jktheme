@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>https://rnwilson.github.io/random/2021/06/21/this-is-it.html/</loc>
+      <loc>https://rnwilson.net/random/2021/06/21/this-is-it.html/</loc>
       
         <lastmod>2021-06-21T00:00:00-05:00</lastmod>
       
@@ -21,24 +21,9 @@
   
     
     <url>
-      <loc>https://rnwilson.github.io/about/</loc>
+      <loc>https://rnwilson.net/about/</loc>
       
-        <lastmod>2021-06-21T12:27:46-05:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://rnwilson.github.io/categories/crypto/</loc>
-      
-        <lastmod>2021-06-21T12:27:46-05:00</lastmod>
+        <lastmod>2021-06-22T05:42:28-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -51,9 +36,24 @@
   
     
     <url>
-      <loc>https://rnwilson.github.io/categories/docker/</loc>
+      <loc>https://rnwilson.net/categories/crypto/</loc>
       
-        <lastmod>2021-06-21T12:27:46-05:00</lastmod>
+        <lastmod>2021-06-22T05:42:28-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://rnwilson.net/categories/docker/</loc>
+      
+        <lastmod>2021-06-22T05:42:28-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -68,9 +68,9 @@
   
     
     <url>
-      <loc>https://rnwilson.github.io/</loc>
+      <loc>https://rnwilson.net/</loc>
       
-        <lastmod>2021-06-21T12:27:46-05:00</lastmod>
+        <lastmod>2021-06-22T05:42:28-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -85,9 +85,9 @@
   
     
     <url>
-      <loc>https://rnwilson.github.io/categories/programming/</loc>
+      <loc>https://rnwilson.net/categories/programming/</loc>
       
-        <lastmod>2021-06-21T12:27:46-05:00</lastmod>
+        <lastmod>2021-06-22T05:42:28-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -100,9 +100,9 @@
   
     
     <url>
-      <loc>https://rnwilson.github.io/categories/random/</loc>
+      <loc>https://rnwilson.net/categories/random/</loc>
       
-        <lastmod>2021-06-21T12:27:46-05:00</lastmod>
+        <lastmod>2021-06-22T05:42:28-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

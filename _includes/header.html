@@ -11,7 +11,19 @@
         </ul>
     </div>
 
-    <ul class="social-links">
+    <ul class="social-links">      
+        {% if site.author.facebook %}
+            <a href="https://facebook.com/{{ site.author.facebook }}" class="social-links__entry" target="_blank">
+                <i class="fab fa-facebook"></i>
+            </a>
+        {% endif %}
+        
+        {% if site.author.keybase %}
+            <a href="https://keybase.io/{{ site.author.keybase }}" class="social-links__entry" target="_blank">
+                <i class="fab fa-keybase"></i>
+            </a>
+        {% endif %}       
+                  
         {% if site.author.github %}
             <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
                 <i class="fa fa-github"></i>

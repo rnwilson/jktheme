@@ -7,13 +7,15 @@ description: >
    socialite now living in exile. 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://rnwilson.github.io" # the base hostname & protocol for your site
+url: "https://rnwilson.net" # the base hostname & protocol for your site
 
 author:
   fullname: Nathan Wilson
   #googleplus: https://www.google.com/+MotaquillahMaddane
   github: rnwilson
   twitter: rnwilson
+  keybase: rnwilson
+  facebook: rnathanwilson
   #disqus rnwilson
 
 # google_analytics: 'UA-XXXXXXXX-X'
