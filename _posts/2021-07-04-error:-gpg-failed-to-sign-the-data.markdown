@@ -5,7 +5,7 @@ subtitle: "Commit with your cryptographic signature"
 date: 2021-07-04
 categories: [Programming]
 ---
-![Bash Syntax Error](https://github.com/rnwilson/rnwilson.github.io/blob/6bf00e9c6675714d916a73a81523c8d8bf696133/img/carbon(2).png)
+![Bash Syntax Error](https://raw.githubusercontent.com/rnwilson/rnwilson.github.io/6bf00e9c6675714d916a73a81523c8d8bf696133/img/carbon(2).png)
 
 ```
 ubuntu@srv1:~/random-repo$ export GPG_TTY=$(tty)
